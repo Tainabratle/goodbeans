@@ -1,3 +1,3 @@
 # Google Dorking
 
-Read again.
+What about the domain?
